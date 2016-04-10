@@ -18,8 +18,8 @@
         "bitbucket"
     ],
     "require": {
-        "php": ">=5.5.0",
-        "league/oauth2-client": "~1.2"
+        "php": ">=5.4.0",
+        "league/oauth2-client": "dev-support/php-5-4-compatibility"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
